@@ -1,4 +1,4 @@
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+# Milestone 1 - Campus Dining (Unit 7)
 
 ## Table of Contents
 
@@ -10,15 +10,15 @@
 
 ### Description
 
-[Description of your app]
+This app allows the user to see what food is at each dining hall per day
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
+- **Category:** Food
+- **Mobile:** Pulls info from a website but is designed for mobile use
+- **Story:** 
+- **Market:** VCU campus residents
 - **Habit:**
 - **Scope:**
 
