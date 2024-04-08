@@ -10,17 +10,17 @@
 
 ### Description
 
-This app allows the user to see what food is at each dining hall per day
+This app allows the user to see what food is at each dining hall per day. Allows users to see what food is available for the day/week at dining halls. possibly include a map for where to use flex dollars. Also, you can use your debit/credit card to pay for a meal.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:** Food
-- **Mobile:** Pulls info from a website but is designed for mobile use
-- **Story:** 
-- **Market:** VCU campus residents
-- **Habit:**
-- **Scope:**
+- **Category:** Food/Utility/Lifestyle
+- **Mobile:** Pulls info from a website but is designed for mobile use. Utilizes maps for locating dining halls, real-time updates on food availability, possibly integrates with mobile payment options.
+- **Story:** Provides convenience and time-saving for students, especially during busy periods. Clear value proposition for students looking for meal options and utilizing campus meal plans.
+- **Market:** VSU campus residents. Targeted towards college students, particularly those living on campus. Potential for partnerships with universities for wider adoption.
+- **Habit:** Frequency of use may vary depending on dining habits, but could become habitual during meal times or when planning meals.
+- **Scope:** Initial version could focus on displaying daily/weekly menus with basic filtering options. Subsequent versions could add features like integration with campus meal plans, user reviews, and nutritional information.
 
 ## Product Spec
 
@@ -28,40 +28,45 @@ This app allows the user to see what food is at each dining hall per day
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. Users can log in.
+2. Users can check the menu from the dining halls. 
+3. Users can create a new account. 
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. Users can view their Flex Dollars balance
+2. Users can leave reviews for the dining halls. 
+3. Users can get notifications about updates.
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
+- Login Screen
+  - User can log in. 
   - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Registration Screen
+  - User can create a new account
+- Home
+  -  Provide important announcements, updates, or news related to dining services.
+- Search 
+  - Users can search for the menu for the various dining halls.
+  - Users can search the locations that use flex dollars.
+
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed
+* Search
+* Balance
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
+- Login 
+  - Home
   - ...
-- [list second screen here]
-  - [list screen navigation here]
+-Registration Screen 
+  - Home 
   - ...
 
 ## Wireframes
