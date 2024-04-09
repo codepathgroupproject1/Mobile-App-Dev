@@ -89,7 +89,7 @@ This app allows the user to see what food is at each dining hall per day. Allows
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="Milestones.png" width=600>
 
 ## Issue cards
 
