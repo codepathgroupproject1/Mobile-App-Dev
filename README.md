@@ -72,6 +72,12 @@ This app allows the user to see what food is at each dining hall per day. Allows
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img width="1440" alt="Screenshot 2024-04-16 at 1 04 36 PM" src="https://github.com/codepathgroupproject1/Mobile-App-Dev/assets/148890984/ea861b7c-c2d6-42b5-98e9-34f3baaf5854">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 04 54 PM" src="https://github.com/codepathgroupproject1/Mobile-App-Dev/assets/148890984/37faedfb-85fe-407f-9ac2-bf3905852fff">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 05 07 PM" src="https://github.com/codepathgroupproject1/Mobile-App-Dev/assets/148890984/316c45b6-df90-4838-b7e6-141c53eba3c2">
+
+
+
 
 <br>
 
