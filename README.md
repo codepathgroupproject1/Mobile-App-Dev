@@ -156,3 +156,4 @@ from the original requirements
 ## App Demo Video
 
 - Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+- https://www.canva.com/design/DAGD1ArLkmo/c-uJ33SEt0N1FbgeCZK5LA/edit?utm_content=DAGD1ArLkmo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
