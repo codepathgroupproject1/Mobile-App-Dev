@@ -40,16 +40,28 @@ This app allows the user to see what food is at each dining hall per day. Allows
 
 ### 2. Screen Archetypes
 
+-Get Started
+
 - Login Screen
   - User can log in. 
-  - ...
+  - Firebase uses the sign-up data from the Firebase database.
 - Registration Screen
   - User can create a new account
 - Home
   -  Provide important announcements, updates, or news related to dining services.
+  -  Allows the users to choose to click the Jones, Gateway, Flex Locations, or Help Page. 
 - Search 
   - Users can search for the menu for the various dining halls.
   - Users can search the locations that use flex dollars.
+- Profile
+   - Users can add their name, email, phone number, and meal plan to the app.
+   - The users' data will be saved using Firebase.
+  -Flex Balance
+    - Users can see the amount of their flex balance on their Trojan ID card.
+    - User can view their transaction history of where they spent their flex balance.
+  -Review
+    - 
+     
 
 
 ### 3. Navigation
@@ -57,17 +69,22 @@ This app allows the user to see what food is at each dining hall per day. Allows
 **Tab Navigation** (Tab to Screen)
 
 * Home Feed
-* Search
+* Profile
 * Balance
 
 **Flow Navigation** (Screen to Screen)
-
+-Get Started
+  - Login
 - Login 
   - Home
-  - ...
+  - Registration 
 -Registration Screen 
   - Home 
-  - ...
+-Home
+ - Jones Page
+ - Gateway Page
+ - Flex Locations Page
+ - Help Page
 
 ## Wireframes
 
@@ -117,16 +134,24 @@ this section]
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="Project_Board_Unit_9.png" width=600>
 
 ## Completed user stories
 
 - List the completed user stories from this unit
+  - The home page allows the users to click the Jones, Gateway, and Flex Location Tabs,
+  - Users can view the weekly menu from the Jones and Gateway Tabs.
+  - Users can write real-time views of the Jones and Gateway Dining Halls.
+  - Users can edit their profile page and will be saved to the database.
+  - Users can successfully sign up and their information will be saved to the database. 
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
+  - The help page was cut out
+  - The transactions for the flex balance need to be finished completely.
+  
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600> <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>   <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## App Demo Video
 
