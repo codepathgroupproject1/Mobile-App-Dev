@@ -151,7 +151,7 @@ from the original requirements
   
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600> <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>   <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="demoPart1.gif" width=600> <img src="demoPart3.gif" width=600>   <img src="demoPart4.gif" width=600>
 
 ## App Demo Video
 
